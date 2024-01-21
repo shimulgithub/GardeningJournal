@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.miu.gardenmate.ui.home.HomeFragmentDirections","com.miu.gardenmate.ui.gardenlog.GardenLogFragmentDirections","com.miu.gardenmate.ui.addplant.AddPlantFragmentDirections","com.miu.gardenmate.ui.plantdetail.PlantDetailFragmentDirections","com.miu.gardenmate.ui.plantdetail.PlantDetailFragmentArgs"]}]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FFFFB6C1</color>
+    <color name="black">#FF000000</color>
+    <color name="days_to_water_normal">#D59F00</color>
+    <color name="days_to_water_safe">#1FA51B</color>
+    <color name="days_to_water_urgent">#DF1E1E</color>
+    <color name="delete">#FFFF5555</color>
+    <color name="primary">#5C5CFF</color>
+    <color name="primary_card_background">#E6DBCF</color>
+    <color name="secondary">#FF7C6A57</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <string name="app_name">GardenMate</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.GardenMate" parent="Theme.Material3.DayNight.NoActionBar">
+        
+         <item name="colorPrimary">@color/primary</item>
+    </style>
+    <style name="Theme.GardenMate" parent="Base.Theme.GardenMate"/>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.miu.gardenmate.app-mergeDebugResources-53:/layout/plant_list_view.xml",
+        "source": "com.miu.gardenmate.app-main-56:/layout/plant_list_view.xml"
+    },
+    {
+        "merged": "com.miu.gardenmate.app-mergeDebugResources-53:/layout/fragment_garden_log.xml",
+        "source": "com.miu.gardenmate.app-main-56:/layout/fragment_garden_log.xml"
+    },
+    {
+        "merged": "com.miu.gardenmate.app-mergeDebugResources-53:/layout/fragment_plant_detail.xml",
+        "source": "com.miu.gardenmate.app-main-56:/layout/fragment_plant_detail.xml"
+    },
+    {
+        "merged": "com.miu.gardenmate.app-mergeDebugResources-53:/layout/fragment_home.xml",
+        "source": "com.miu.gardenmate.app-main-56:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.miu.gardenmate.app-mergeDebugResources-53:/layout/fragment_add_plant.xml",
+        "source": "com.miu.gardenmate.app-main-56:/layout/fragment_add_plant.xml"
+    },
+    {
+        "merged": "com.miu.gardenmate.app-mergeDebugResources-53:/layout/activity_main.xml",
+        "source": "com.miu.gardenmate.app-main-56:/layout/activity_main.xml"
+    }
+]
